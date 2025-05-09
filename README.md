@@ -1,4 +1,6 @@
 # React + Vite
+Netlify: https://majestic-hamster-e5de54.netlify.app/
+surge: https://able-war.surge.sh/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
