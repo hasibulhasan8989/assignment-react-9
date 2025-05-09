@@ -1,0 +1,81 @@
+[
+    {
+      "id": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co.com/BV7d0RkK/book6.png",
+      "review": "A masterful psychological thriller that grips you from the first page. The unraveling mystery and the silence of Alicia Berenson build a chilling tension that keeps you guessing. Michaelides delivers a shocking twist that redefines the entire narrative. Every chapter deepens the suspense and emotion, making it impossible to put down. A haunting, unforgettable story that stays with you long after the last page.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Thriller",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "id": 2,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co.com/Pv77wSrM/book5.png",
+      "review": "Tara Westover’s memoir is a powerful testament to the human will to learn and grow. Her journey from isolation in rural Idaho to earning a PhD from Cambridge is deeply inspiring. With vivid storytelling, she highlights the emotional cost of breaking away from one’s past. ‘Educated’ is raw, courageous, and thought-provoking—a story of identity, family, and the transformative power of education.",
+      "totalPages": 109,
+      "rating": 4.7,
+      "category": "Memoir",
+      "tags": ["Inspiration", "True Story"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "id": 3,
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "https://i.ibb.co.com/mV4v6bPX/book4.png",
+      "review": "This stunning debut blends the mystery of a murder trial with the rich emotional landscape of a lonely girl’s coming-of-age in the wild. Delia Owens paints nature with poetic beauty, immersing readers in the marshes of North Carolina. Kya’s story is one of resilience and quiet strength. A lyrical, heartbreaking novel that celebrates love, loss, and the connection between humans and the natural world.",
+      "totalPages": 600,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Mystery", "Nature", "Romance"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "id": 4,
+      "bookName": "Atomic Habits",
+      "author": "James Clear",
+      "image": "https://i.ibb.co.com/5hG1Ztd0/book3.png",
+      "review": "James Clear distills years of behavioral science into a clear, actionable guide to habit formation. ‘Atomic Habits’ empowers readers to make small changes that lead to remarkable results. With practical tips, engaging stories, and a framework that’s easy to follow, this book is a must-read for anyone seeking lasting personal growth. It’s not just informative—it’s a blueprint for becoming the person you want to be.",
+      "totalPages": 220,
+      "rating": 4.8,
+      "category": "Self-help",
+      "tags": ["Productivity", "Behavioral Science"],
+      "publisher": "Avery",
+      "yearOfPublishing": 2018
+    },
+    {
+      "id": 5,
+      "bookName": "The Midnight Library",
+      "author": "Matt Haig",
+      "image": "https://i.ibb.co.com/Q30g6PQR/book2.png",
+      "review": "Matt Haig’s novel is a heartfelt exploration of regret, choice, and the meaning of life. The Midnight Library offers readers a chance to walk paths not taken, reflecting on what could have been. It’s philosophical without being heavy, imaginative without losing emotional depth. Nora’s journey is deeply relatable, and her transformation will resonate with anyone who’s ever questioned their life’s direction. A deeply human, uplifting read.",
+      "totalPages": 400,
+      "rating": 4.3,
+      "category": "Fantasy",
+      "tags": ["Existential", "Philosophical", "Fantasy"],
+      "publisher": "Canongate Books",
+      "yearOfPublishing": 2020
+    },
+    {
+      "id": 6,
+      "bookName": "Project Hail Mary",
+      "author": "Andy Weir",
+      "image": "https://i.ibb.co.com/JRM28FcV/book1.png",
+      "review": "Andy Weir delivers another masterstroke with this thrilling, science-driven adventure. ‘Project Hail Mary’ is a gripping survival story set in space, filled with clever twists and emotional depth. Ryland Grace is a witty and lovable protagonist whose journey balances scientific problem-solving with heartwarming friendship. Weir blends humor, suspense, and hope in a narrative that’s both intellectually satisfying and emotionally uplifting. A space epic with soul.",
+      "totalPages": 496,
+      "rating": 4.7,
+      "category": "Science Fiction",
+      "tags": ["Space", "Adventure", "Survival"],
+      "publisher": "Ballantine Books",
+      "yearOfPublishing": 2021
+    }
+  ]
+  
